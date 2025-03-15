@@ -15,8 +15,8 @@
 1. **Клонируйте репозиторий:**
 
    ```sh
-   git clone https://github.com/Abdulaziz6921/react-black-square.git
-   cd react-black-square
+   git clone https://github.com/Abdulaziz6921/react-black-square-abdulaziz.git
+   cd react-black-square-abdulaziz
 
    ```
 
